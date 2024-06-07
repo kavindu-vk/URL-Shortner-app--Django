@@ -4,9 +4,9 @@ A simple URL shortener application built with Django. This application allows us
 
 ### Screenshots
 
-![urlshortner](screenshots/shortner-1.png)
+![urlshortner](screenshots/shortner-1.PNG)
 
-![urlshortner](screenshots/shortner-2.png)
+![urlshortner](screenshots/shortner-2.PNG)
 
 ## Features
 
